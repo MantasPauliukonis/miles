@@ -7,8 +7,14 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.16.0",
+    "canvas-gauges": "^2.1.7",
     "core-js": "^3.6.5",
+    "lodash": "^4.17.20",
+    "vgauge": "^1.2.12-rc3",
     "vue": "^2.6.11",
+    "vue-canvas-gauges": "0.0.0",
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
   },
